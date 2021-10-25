@@ -1,0 +1,4 @@
+/home/scott/snap/exercism/5/exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scott/snap/exercism/5/exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/scott/snap/exercism/5/exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/test_reverse-string.dir
+/home/scott/snap/exercism/5/exercism/cpp/reverse-string/cmake-build-debug/CMakeFiles/reverse-string.dir

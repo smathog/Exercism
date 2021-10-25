@@ -1,0 +1,4 @@
+/home/scott/snap/exercism/5/exercism/cpp/leap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scott/snap/exercism/5/exercism/cpp/leap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/scott/snap/exercism/5/exercism/cpp/leap/cmake-build-debug/CMakeFiles/test_leap.dir
+/home/scott/snap/exercism/5/exercism/cpp/leap/cmake-build-debug/CMakeFiles/leap.dir
