@@ -1,0 +1,7 @@
+[dependencies]
+gcd = "2.0.2"
+
+[package]
+edition = "2021"
+name = "pythagorean_triplet"
+version = "1.0.0"
